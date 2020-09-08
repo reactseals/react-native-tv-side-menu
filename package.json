@@ -1,0 +1,49 @@
+{
+  "name": "react-native-tv-side-menu",
+  "title": "React Native TV Side Menu",
+  "version": "1.0.2",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-tv-side-menu.git",
+    "baseUrl": "https://github.com/github_account/react-native-tv-side-menu"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Aurimas Mickys",
+    "email": "aurimasmickys@reactseals.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x",
+    "@react-navigation/native": "^5.0.0",
+    "@react-navigation/stack": "^5.0.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "5.*",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-import-resolver-babel-module": "5.0.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-mocha": "5.3.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "7.14.3",
+    "eslint-plugin-react-hooks": "1.6.1",
+    "prettier": "^1.19.1",
+    "react": "^16.8.3",
+    "react-native": "^0.59.10",
+    "@react-navigation/native": "^5.0.0",
+    "@react-navigation/stack": "^5.0.5"
+  }
+}
